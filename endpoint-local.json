@@ -1,0 +1,8 @@
+{
+    "identifier": "local",
+    "url": "https://localhost:9000/",
+    "method": "GET",
+    "status_online": 200,
+    "frequency": "1m0s",
+    "fail_after": 2
+}

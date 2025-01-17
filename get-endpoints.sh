@@ -1,0 +1,1 @@
+curl -X GET -o all-endpoints.json  localhost:8000/endpoints
